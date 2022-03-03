@@ -1,2 +1,2 @@
 # test
-test repo for get command demonstation
+test repo for get command demonstation.
